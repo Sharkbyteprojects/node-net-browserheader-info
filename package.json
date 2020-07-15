@@ -1,0 +1,10 @@
+{
+  "name": "nodenet",
+  "version": "0.0.1",
+  "description": "USE NODEJS NET LIB.",
+  "main": "net.js",
+  "scripts": {
+    "start": "node net.js"
+  },
+  "license": "MIT"
+}
